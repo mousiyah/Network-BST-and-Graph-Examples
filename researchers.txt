@@ -1,0 +1,3 @@
+Troy Kaighin,Astarte,2019-02-28,t.k.astarte@swansea.ac.uk,History of computing/Formal methods/Programming languages
+Adriaan,van Wijngaarden,1946-03-31,aad@cwi.nl,Programming languages/Context-free grammars/Computer architecture
+Daniel,Archambault,2008-07-19,d.w.archambault@swansea.co.uk,Data visualisation/Network analysis/Information visualisation

@@ -1,0 +1,7 @@
+IK,Hon
+Hon,Tae
+Tae,Zed
+Tae,Bol
+Zed,Nue
+Zed,Bol
+Nue,Tae

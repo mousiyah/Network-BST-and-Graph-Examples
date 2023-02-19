@@ -1,0 +1,6 @@
+Laila,IK,2019-02-28,t.k.astarte@swansea.ac.uk,History of computing/Formal methods/Programming languages
+An,Hon,1946-03-31,aad@cwi.nl,Programming languages/Context-free grammars/Computer architecture
+Mun,Tae,2008-07-19,d.w.archambault@swansea.co.uk,Data visualisation/Network analysis/Information visualisation
+Sim,Zed,2008-07-19,d.w.archambault@swansea.co.uk,Data visualisation/Network analysis/Information visualisation
+Loki,Bol,2008-07-19,d.w.archambault@swansea.co.uk,Data visualisation/Network analysis/Information visualisation
+Mey,Nue,2008-07-19,d.w.archambault@swansea.co.uk,Data visualisation/Network analysis/Information visualisation
